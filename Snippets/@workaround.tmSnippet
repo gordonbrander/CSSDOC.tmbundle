@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/**
+ * @workaround ${1:wrong border display}
+ * @affected ${2:ie7}
+ * @tested ${0:ie6, ie7, ie8, safari4, ff3}
+ */</string>
+	<key>name</key>
+	<string>@workaround</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>@workaround</string>
+	<key>uuid</key>
+	<string>85A47FEA-F6A7-407F-94A2-8871B4B52B46</string>
+</dict>
+</plist>
