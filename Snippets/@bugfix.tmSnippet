@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/**
+ * ${1:hasLayout fix}
+ * 
+ * @bugfix
+ * @affected	${2:IE6, IE7}
+ * @valid		${3:no}
+ */</string>
+	<key>name</key>
+	<string>@bugfix</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>@bugfix</string>
+	<key>uuid</key>
+	<string>68B2752F-8E9A-4E9C-8222-9748D54404C1</string>
+</dict>
+</plist>
