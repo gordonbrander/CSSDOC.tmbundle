@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>/* ${1:@group ${0:group name}}
--------------------------------------------------- */</string>
+	<string>/** ${1:@section ${0:section name}}
+ -------------------------------------------------- */</string>
 	<key>name</key>
 	<string>---</string>
 	<key>scope</key>

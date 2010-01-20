@@ -4,11 +4,11 @@
 <dict>
 	<key>content</key>
 	<string>/**
- * ${1:hasLayout fix}
- * 
- * @bugfix
+ * @bugfix ${1:hasLayout fix}
+ *
  * @affected	${2:IE6, IE7}
  * @valid		${3:no}
+ * @tested ${4:ie6, ie7, ie8, safari4, ff3}
  */</string>
 	<key>name</key>
 	<string>@bugfix</string>
